@@ -1,7 +1,7 @@
-* {
-    background-color: pink;
-}
-
 body {
     color: black;
+}
+
+.red {
+    background-color: red
 }
