@@ -5,3 +5,7 @@ body {
 .red {
     background-color: black;
 }
+
+.spacing {
+    border-top: 50%;
+}
